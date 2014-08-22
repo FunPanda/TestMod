@@ -12,9 +12,9 @@ import cpw.mods.fml.common.registry.GameRegistry;
  *         Date: 8/22/2014
  */
 public class ModItems {
-    public static final ItemTM testItem = new ItemTest();
+    public static final ItemTM itemTest = new ItemTest();
 
     public static void init(){
-        GameRegistry.registerItem(testItem, ItemName.ITEMTEST_NAME);
+        GameRegistry.registerItem(itemTest, ItemName.ITEMTEST_NAME);
     }
 }

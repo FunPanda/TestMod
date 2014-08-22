@@ -2,7 +2,6 @@ package com.funpanda.testmod.creativetab;
 
 import com.funpanda.testmod.init.ModItems;
 import com.funpanda.testmod.reference.Reference;
-import net.minecraft.init.Blocks;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 
@@ -16,7 +15,7 @@ public class CreativeTab {
     public static final CreativeTabs TAB_TM = new CreativeTabs(Reference.MOD_ID.toLowerCase()) {
         @Override
         public Item getTabIconItem() {
-            return ModItems.testItem;
+            return ModItems.itemTest;
         }
 
         @Override
