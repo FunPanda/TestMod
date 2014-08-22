@@ -1,5 +1,6 @@
 package com.funpanda.testmod;
 
+import com.funpanda.testmod.init.ModBlocks;
 import com.funpanda.testmod.init.ModItems;
 import com.funpanda.testmod.proxy.IProxy;
 import com.funpanda.testmod.util.LogHelper;
@@ -36,6 +37,7 @@ public class TestMod {
     public void preInit(FMLPreInitializationEvent event){
         LogHelper.Info("Beginning PreInit");
         ModItems.init();
+        ModBlocks.init();
     }
 
     //Init
