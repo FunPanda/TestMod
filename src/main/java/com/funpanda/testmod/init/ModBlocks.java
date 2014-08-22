@@ -2,6 +2,7 @@ package com.funpanda.testmod.init;
 
 import com.funpanda.testmod.blocks.BlockTM;
 import com.funpanda.testmod.blocks.crafting.BlockLight;
+import com.funpanda.testmod.blocks.crafting.BlockPotion;
 import com.funpanda.testmod.blocks.crafting.BlockTest;
 import com.funpanda.testmod.reference.BlockName;
 import com.funpanda.testmod.reference.Reference;
@@ -17,9 +18,11 @@ import cpw.mods.fml.common.registry.GameRegistry;
 public class ModBlocks {
     public static final BlockTM blockTest = new BlockTest();
     public static final BlockTM blockLight = new BlockLight();
+    public static final BlockTM blockPotion = new BlockPotion();
 
     public static void init(){
         GameRegistry.registerBlock(blockTest, BlockName.BLOCKTEST_NAME);
         GameRegistry.registerBlock(blockLight,BlockName.BLOCKLIGHT_NAME);
+        GameRegistry.registerBlock(blockPotion, BlockName.BLOCKPOTION_NAME)
     }
 }

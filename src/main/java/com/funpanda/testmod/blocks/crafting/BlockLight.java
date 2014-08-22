@@ -12,7 +12,7 @@ public class BlockLight extends BlockTest {
     public BlockLight(){
         super();
         this.setLightOpacity(16);
-        this.setLightLevel(24);
+        this.setLightLevel(1.0F);
         this.setBlockName(BlockName.BLOCKLIGHT_NAME);
 
     }

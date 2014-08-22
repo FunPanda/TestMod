@@ -24,11 +24,6 @@ public class BlockTM extends Block{
         this.setHardness(1F);
         this.setStepSound(Block.soundTypeMetal);
     }
-    @Override
-    public boolean isLadder(IBlockAccess world, int x, int y, int z, EntityLivingBase entity)
-    {
-        return true;
-    }
 
     protected String getUnwrappedUnlocalizedName(String unlocalizedName){
         return unlocalizedName.substring(unlocalizedName.indexOf(".")+1);

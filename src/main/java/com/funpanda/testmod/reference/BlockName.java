@@ -9,4 +9,5 @@ package com.funpanda.testmod.reference;
 public class BlockName {
     public static final String BLOCKTEST_NAME = "blockTest";
     public static final String BLOCKLIGHT_NAME = "blockLight";
+    public static final String BLOCKPOTION_NAME = "blockPotion";
 }
