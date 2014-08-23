@@ -2,27 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2547ad6-0c6d-47bb-b8a0-e1b766e4e384" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Ryan\Desktop\MinecraftDevelopmentEnvironment\TestMod\eclipse\saves\New World\DIM-1\data\villages.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\Desktop\MinecraftDevelopmentEnvironment\TestMod\eclipse\saves\New World\DIM-1\forcedchunks.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\Desktop\MinecraftDevelopmentEnvironment\TestMod\eclipse\saves\New World\DIM1\data\villages.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\Desktop\MinecraftDevelopmentEnvironment\TestMod\eclipse\saves\New World\DIM1\forcedchunks.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\Desktop\MinecraftDevelopmentEnvironment\TestMod\eclipse\saves\New World\data\Mineshaft.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\Desktop\MinecraftDevelopmentEnvironment\TestMod\eclipse\saves\New World\data\Village.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\Desktop\MinecraftDevelopmentEnvironment\TestMod\eclipse\saves\New World\data\villages.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\Desktop\MinecraftDevelopmentEnvironment\TestMod\eclipse\saves\New World\forcedchunks.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\Desktop\MinecraftDevelopmentEnvironment\TestMod\eclipse\saves\New World\level.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\Desktop\MinecraftDevelopmentEnvironment\TestMod\eclipse\saves\New World\level.dat_mcr" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\Desktop\MinecraftDevelopmentEnvironment\TestMod\eclipse\saves\New World\level.dat_old" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\Desktop\MinecraftDevelopmentEnvironment\TestMod\eclipse\saves\New World\playerdata\040a63f0-e153-3f49-84a8-b60ca564e69f.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\Desktop\MinecraftDevelopmentEnvironment\TestMod\eclipse\saves\New World\region\r.-1.0.mca" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\Desktop\MinecraftDevelopmentEnvironment\TestMod\eclipse\saves\New World\region\r.0.0.mca" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\Desktop\MinecraftDevelopmentEnvironment\TestMod\eclipse\saves\New World\session.lock" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\Desktop\MinecraftDevelopmentEnvironment\TestMod\eclipse\saves\New World\stats\040a63f0-e153-3f49-84a8-b60ca564e69f.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\Desktop\MinecraftDevelopmentEnvironment\TestMod\src\main\java\com\funpanda\testmod\blocks\crafting\BlockPotion.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2014-08-22-1.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2014-08-22-1.log.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2014-08-22-2.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2014-08-22-2.log.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2014-08-22-3.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2014-08-22-3.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/init/ModBlocks.java" afterPath="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/init/ModBlocks.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/crafting/BlockLight.java" afterPath="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/crafting/BlockLight.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/crafting/BlockTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/crafting/BlockTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestMod.iws" afterPath="$PROJECT_DIR$/TestMod.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" />
@@ -89,14 +73,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BlockTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="BlockTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/crafting/BlockTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.81085527" vertical-offset="680" max-vertical-offset="1462">
+              <caret line="69" column="93" selection-start-line="69" selection-start-column="93" selection-end-line="70" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1707#1708#0" expanded="true" />
+                <element signature="e#1757#1758#0" expanded="true" />
+                <element signature="e#2778#2779#0" expanded="true" />
+                <element signature="e#2854#2855#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogHelper.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/util/LogHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="242" max-vertical-offset="850">
+              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlockTM.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/BlockTM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -104,19 +112,38 @@
       <file leaf-file-name="BlockLight.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/crafting/BlockLight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ModBlocks.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="World.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/world/World.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-54.107143" vertical-offset="36769" max-vertical-offset="72930">
+              <caret line="2359" column="30" selection-start-line="2359" selection-start-column="25" selection-end-line="2359" selection-end-column="30" />
+              <folding>
+                <element signature="e#100991#100992#0" expanded="true" />
+                <element signature="e#101027#101028#0" expanded="true" />
+                <element signature="e#119791#119792#0" expanded="true" />
+                <element signature="e#119819#119820#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModBlocks.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/init/ModBlocks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.11447811" vertical-offset="0" max-vertical-offset="594">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -124,12 +151,47 @@
       <file leaf-file-name="Block.java" pinned="false" current="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/block/Block.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="11180" max-vertical-offset="40936">
-              <caret line="741" column="130" selection-start-line="741" selection-start-column="2" selection-end-line="741" selection-end-column="130" />
+            <state vertical-scroll-proportion="-6.75" vertical-offset="8821" max-vertical-offset="40936">
+              <caret line="581" column="28" selection-start-line="581" selection-start-column="19" selection-end-line="581" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#51163#51164#0" expanded="true" />
                 <element signature="e#51188#51189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PotionEffect.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/potion/PotionEffect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="312" max-vertical-offset="4318">
+              <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TileEntityBeacon.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/tileentity/TileEntityBeacon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="6562">
+              <caret line="61" column="132" selection-start-line="61" selection-start-column="126" selection-end-line="61" selection-end-column="132" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TileEntity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/tileentity/TileEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1783" max-vertical-offset="6460">
+              <caret line="39" column="21" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="21" />
+              <folding>
+                <element signature="e#2189#2190#0" expanded="true" />
+                <element signature="e#2225#2226#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -665,14 +727,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/materials/TMMaterial.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/materials/TMMaterials.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/materials/TMMapColors.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/crafting/BlockTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/TestMod.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/init/ModItems.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/crafting/BlockLight.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/reference/BlockName.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/BlockTM.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/crafting/BlockPotion.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/init/ModBlocks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/crafting/BlockLight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/crafting/BlockTest.java" />
       </list>
     </option>
   </component>
@@ -681,8 +743,10 @@
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1036" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -821,6 +885,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="net" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestMod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestMod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="net" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="minecraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="world" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1155,6 +1245,9 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager" selected="Application.Minecraft Client">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -1295,7 +1388,13 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="TestMod" />
       <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -1420,7 +1519,11 @@
       <created>1408748894596</created>
       <updated>1408748894596</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Wasted 3h on AOE Potion Block...could work with tile entity...too much lag for practical use though...problems with static methods">
+      <created>1408755872747</created>
+      <updated>1408755872747</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1444,7 +1547,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1036" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1452,10 +1555,10 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286638" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32172996" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30793992" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39978904" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.306962" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14810924" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32832617" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -1465,8 +1568,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14810924" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297414" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.146875" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1513,7 +1616,8 @@
     <MESSAGE value="New TestBlocks!" />
     <MESSAGE value="Added Object Holder&#10;" />
     <MESSAGE value="Beginnings of AOE Potion Block if possible..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Beginnings of AOE Potion Block if possible..." />
+    <MESSAGE value="Wasted 3h on AOE Potion Block...could work with tile entity...too much lag for practical use though...problems with static methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wasted 3h on AOE Potion Block...could work with tile entity...too much lag for practical use though...problems with static methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1525,14 +1629,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/reference/Reference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/proxy/ClientProxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
@@ -1589,14 +1685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/util/LogHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/creativetab/CreativeTabs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46857774" vertical-offset="0" max-vertical-offset="5508">
@@ -1647,17 +1735,6 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="890" max-vertical-offset="1972">
           <caret line="89" column="19" selection-start-line="89" selection-start-column="15" selection-end-line="89" selection-end-column="25" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/potion/PotionEffect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6899662" vertical-offset="0" max-vertical-offset="4369">
-          <caret line="47" column="56" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
-          <folding>
-            <element signature="e#3385#3386#0" expanded="false" />
-            <element signature="e#3422#3423#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1835,16 +1912,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/init/ModItems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57239056" vertical-offset="0" max-vertical-offset="594">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/TestMod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="952">
@@ -1863,51 +1930,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/BlockTM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34175083" vertical-offset="239" max-vertical-offset="833">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/crafting/BlockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/entity/player/EntityPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.9098084" vertical-offset="35082" max-vertical-offset="41089">
           <caret line="2141" column="15" selection-start-line="2141" selection-start-column="15" selection-end-line="2141" selection-end-column="15" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/crafting/BlockLight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/block/Block.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="11180" max-vertical-offset="40936">
-          <caret line="741" column="130" selection-start-line="741" selection-start-column="2" selection-end-line="741" selection-end-column="130" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#51163#51164#0" expanded="true" />
-            <element signature="e#51188#51189#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1919,43 +1946,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/world/World.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="58134" max-vertical-offset="73984">
-          <caret line="3497" column="16" selection-start-line="3497" selection-start-column="16" selection-end-line="3497" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/tileentity/TileEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5163511" vertical-offset="538" max-vertical-offset="6409">
-          <caret line="34" column="54" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/tileentity/TileEntityBeacon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6247848" vertical-offset="1728" max-vertical-offset="6545">
-          <caret line="139" column="41" selection-start-line="139" selection-start-column="41" selection-end-line="139" selection-end-column="41" />
-          <folding>
-            <element signature="e#6170#6171#0" expanded="true" />
-            <element signature="e#6211#6212#0" expanded="true" />
-            <element signature="e#6334#6335#0" expanded="true" />
-            <element signature="e#6377#6378#0" expanded="true" />
-            <element signature="e#6593#6594#0" expanded="true" />
-            <element signature="e#6634#6635#0" expanded="true" />
-            <element signature="e#8198#8199#0" expanded="true" />
-            <element signature="e#8229#8230#0" expanded="true" />
-            <element signature="e#11139#11140#0" expanded="true" />
-            <element signature="e#11188#11189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/block/BlockBeacon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.8872054" vertical-offset="35" max-vertical-offset="1343">
@@ -1964,18 +1954,153 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/init/ModItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#564#565#0" expanded="false" />
+            <element signature="e#639#640#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/world/WorldServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.047058824" vertical-offset="6177" max-vertical-offset="18020">
+          <caret line="433" column="44" selection-start-line="433" selection-start-column="13" selection-end-line="433" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/BlockTM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/crafting/BlockLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/block/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.75" vertical-offset="8821" max-vertical-offset="40936">
+          <caret line="581" column="28" selection-start-line="581" selection-start-column="19" selection-end-line="581" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#51163#51164#0" expanded="true" />
+            <element signature="e#51188#51189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/init/ModBlocks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11447811" vertical-offset="0" max-vertical-offset="594">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/world/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-54.107143" vertical-offset="36769" max-vertical-offset="72930">
+          <caret line="2359" column="30" selection-start-line="2359" selection-start-column="25" selection-end-line="2359" selection-end-column="30" />
+          <folding>
+            <element signature="e#100991#100992#0" expanded="true" />
+            <element signature="e#101027#101028#0" expanded="true" />
+            <element signature="e#119791#119792#0" expanded="true" />
+            <element signature="e#119819#119820#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/util/LogHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="242" max-vertical-offset="850">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/block/BlockBasePressurePlate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2486" max-vertical-offset="3910">
+          <caret line="177" column="41" selection-start-line="177" selection-start-column="28" selection-end-line="177" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/potion/PotionEffect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="312" max-vertical-offset="4318">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/tileentity/TileEntityBeacon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="6562">
+          <caret line="61" column="132" selection-start-line="61" selection-start-column="126" selection-end-line="61" selection-end-column="132" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1208/forgeSrc-1.7.10-10.13.0.1208-sources.jar!/net/minecraft/tileentity/TileEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1783" max-vertical-offset="6460">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="21" />
+          <folding>
+            <element signature="e#2189#2190#0" expanded="true" />
+            <element signature="e#2225#2226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/funpanda/testmod/blocks/crafting/BlockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81085527" vertical-offset="680" max-vertical-offset="1462">
+          <caret line="69" column="93" selection-start-line="69" selection-start-column="93" selection-end-line="70" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1707#1708#0" expanded="true" />
+            <element signature="e#1757#1758#0" expanded="true" />
+            <element signature="e#2778#2779#0" expanded="true" />
+            <element signature="e#2854#2855#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI" />
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="Copyright.UI">
         <settings>
           <splitter-proportions>
@@ -1987,7 +2112,66 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TestMod</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI" />
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ScopeChooserConfigurable.UI" />
     </states>
   </component>
